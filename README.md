@@ -30,35 +30,21 @@ Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (17) Automatic detect
 
 ## Awards and Recognition
 
-2021 Laureate of the Palmarès Feminin Pluriel recognition program, ÉTS.
-
-2018-2021 CREATES Student fellow scholarship, McGill University.
-
-2020 Recipient of the "substance" scholarship for the dissemination of research, ÉTS.
-
-2017-2020 Recognition of Student Engagement Génie+, ÉTS.
-
-2019-2018 Recipient of Arbour scholarship, Fondation Arbour.
-
-2019-2018 Scholarship for the dissemination and promotion of research work, ÉTS.
-
-November 2019 1st prize, "An exemplary plate for a prosperous land", Entrepreneurship competition, Savoir Affaires. Team competition
-
-May 2019 Winner of the Steinberg Center Simnovation Award, McGill Clinical Innovation. Startup competition
-
-April 2019 Recipient of the 1st prize, Presentation contest for the surgical innovation program. Team competition
-
-April 2019 Recipient of the 3rd prize, Dobson Practicum. Startup competition
-
-March 2019 Recipient of the 2nd prize, Dobson Cup. Startup competition
-
-October 2018 Honorific scholarship Desjardins Foundation.
-
-May 2018 Recipient of 1st prize at ÉTS and 2nd prize at international level, Les 24h d’innovation. Team competition
-
-29 September 2017 Recipient of the 3rd prize, APIBQ Congress Poster Contest .
-
-1 December 2017 Recipient of the 3rd prize, Sara’s article abstract competition.
+ 2021 Laureate of the Palmarès Feminin Pluriel recognition program, ÉTS.
+- 2018-2021 CREATES Student fellow scholarship, McGill University.
+- 2020 Recipient of the "substance" scholarship for the dissemination of research, ÉTS.
+- 2017-2020 Recognition of Student Engagement Génie+, ÉTS.
+- 2019-2018 Recipient of Arbour scholarship, Fondation Arbour.
+- 2019-2018 Scholarship for the dissemination and promotion of research work, ÉTS.
+- 2019 1st prize, "An exemplary plate for a prosperous land", Entrepreneurship competition, Savoir Affaires. Team competition
+- 2019 Winner of the Steinberg Center Simnovation Award, McGill Clinical Innovation. Startup competition
+- 2019 Recipient of the 1st prize, Presentation contest for the surgical innovation program. Team competition
+- 2019 Recipient of the 3rd prize, Dobson Practicum. Startup competition
+- 2019 Recipient of the 2nd prize, Dobson Cup. Startup competition
+- 2018 Honorific scholarship Desjardins Foundation.
+- 2018 Recipient of 1st prize at ÉTS and 2nd prize at international level, Les 24h d’innovation. Team competition
+- 2017 Recipient of the 3rd prize, APIBQ Congress Poster Contest .
+- 2017 Recipient of the 3rd prize, Sara’s article abstract competition.
 
 
 ## Volunteering
