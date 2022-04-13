@@ -1,27 +1,9 @@
 ## About me
-I'm Roseline
+My name is Roseline OLORY. My passion in life is helping others and solving problems with the goal of improving society one day at a time. With this in mind, I acquired multidisciplinary knowledge (mathematics, computer science, medicine, entrepreneurship) allowing me to create technological solutions and I engaged in various volunteer activities in order to impact society in my own way.
 
-## Professional experiences
-2022 Postdoctorat researcher - Cervo Brain Research Centre - Université Laval
-Project:
-Supervisors : Prof Flavie Lavoie-Cardinal, Prof JAudrey Durand.
+## Bibliography
+I'm a postdoctorat reasercher
 
-2016-2021 Research project - Imaging and orthopedics research laboratory (LIO) Montreal Partnership with EOS Imaging Inc.,
-Project : Automatic method for the localization and identification of bone structures in EOS X-rays,
-Supervisors : Prof Carlos Vázquez, Prof Jacques De Guise, Prof Matthew Toews.
-
-2020 Speaker, Making the world better one day at a time, ÉTS.
-Link : https://youtu.be/waPN8xokmTc
-
-2019 Co-director biomedical engineering project - Imaging and orthopedics research laboratory in partnership with École Polytechnique de Montréal
-
-2019 Co-founder of FemTherapeutics Company
-
-2017-2018 Laboratory assistant, Course : Applications of digital techniques in graphics and imagery
-(GTI410), 3D Vision and Virtual Reality (GTI780), ÉTS.
-
-2014 Research project - Laboratoire d’Electrotechnique, de Télécommunication et d’Informatique Appliquée de l’Université d’Ecole Polytechnique d’Abomey Calavi, Application of Data Mining Techniques for Decision Making in Medicine : Diabetes Diagnosis Case.
-Supervisors : Prof DAGBA, Théophile
 
 
 ## Importante publications
