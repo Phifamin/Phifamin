@@ -1,6 +1,0 @@
-title: Roseline Olory
-logo: /Image/PhotoRoseline.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
