@@ -63,3 +63,20 @@ May 2018 Recipient of 1st prize at ÉTS and 2nd prize at international level, Le
 
 ## Volunteering
 
+2017–2020 Godmother for the foreign student matchmaking program, ÉTS.
+
+2017–2020 Les Ingénieuses, Student Club Énergie-ÉTS, ÉTS.
+
+2018 Mentor for the «Classes Affaires» event, Montréal relève.
+
+2017–2018 Co-responsible for events, ÉTS student association.
+
+2017–2018 Animator for the discovered project, ÉTS.
+
+2017 Vice-president marketing and communication, Student Club Énergie-ÉTS, ÉTS.
+
+2017 Animator for the event «Classes Affaires», Montréal relève, LIO.
+
+2017 Escouade RECYC-QUÉBEC, Grand Prix F1 du Canada.
+
+September 2016 IEEE Workshop on Multimedia Signal Processing, (MMSP 2016).
