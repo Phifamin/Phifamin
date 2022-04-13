@@ -1,7 +1,7 @@
 ## About me
 I'm Roseline
 
-## List of publications
+## Importante publications
 
 
 ## Scientific communications
