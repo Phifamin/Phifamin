@@ -1,13 +1,14 @@
 ## About me
-My name is Roseline OLORY. My passion in life is helping others and solving problems with the goal of improving society one day at a time. With this in mind, I acquired multidisciplinary knowledge (mathematics, computer science, medicine, entrepreneurship) allowing me to create technological solutions and I engaged in various volunteer activities in order to impact society in my own way.
+My name is Roseline OLORY and I'm from Bénin. My passion in life is helping others and solving problems with the goal of improving society one day at a time. With this in mind, I acquired multidisciplinary knowledge (mathematics, computer science, medicine, entrepreneurship) allowing me to create technological solutions and I engaged in various volunteer activities in order to impact society in my own way.
 
 ## Bibliography
-After obtaining my baccalaureate in Benin, I undertook a parallel master's program in computer science, and a second master's program in mathematics. My altruism led me to develop a tool to help diagnose diabetes, as a dissertation in computer science. Throughout my studies in Benin, I also produced a gospel album in which I advocate unity and love of neighbor.
+After obtaining my baccalaureate in science (sciences and techniques) in Benin, I simultaneously undertook an engineering degree in computer science, and a master's degree in mathematics. My altruism led me to develop a tool to help diagnose diabetes, as a dissertation in computer science. Throughout my studies in Benin, I also produced a gospel album in which I advocate unity and love of neighbor.
 
 When I arrived in Canada, I started a doctoral program at ÉTS that focuses on the analysis of medical images for decision-making in orthopedics. During my thesis, I had the opportunity to work in close collaboration with the industrial partner EOS Imaging in order to develop automatic methods for the identification of clinical information (in EOS radiographs) intended to be integrated into the commercial 3D reconstruction software of the EOS Imaging company. The approaches developed during my thesis project were the subject of a technology transfer to the company EOS Imaging.
 
-In parallel with my doctorate, I undertook a short graduate program in innovation in surgery which allowed me to co-found the company FemTherapeutics whose vision is to design non-invasive medical tools for the prevention and treatment of gynecological pathologies.
-Currently I am a postdoctoral researcher at Laval University where I develop machine learning approaches in neuroscience.
+In the middle of my doctorate, I undertookd in the graduate program in innovation in surgery which allowed me a total immersion in the medical field. I had the privilege of interacting with doctors from different fields (orthopedics, gynecology, cardiology, …) to follow different surgical procedures which allowed me to observe and understand the problems faced by doctors and to propose innovative solutions. This allowed me to co-found the company FemTherapeutics whose vision is to design non-invasive medical tools for the prevention and treatment of gynecological pathologies.
+
+Currently I'm doing a postdoctoral fellowship at Laval University/Cervo Brain Research Centre where I'm working to develop machine learning approaches in neuroscience.
 
 ## Scientific publications
 Olory Agomma, R., Cresson, T. & De Guise, J., Vázquez, C. (2022). Automatic Lower Limb Bones Segmentation in Radiographs with Different Orientations and Fields of View Based on a Contextual Network, International Journal of Computer Assisted Radiology and Surgery, (submitted).
