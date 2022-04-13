@@ -2,12 +2,13 @@
 My name is Roseline OLORY. My passion in life is helping others and solving problems with the goal of improving society one day at a time. With this in mind, I acquired multidisciplinary knowledge (mathematics, computer science, medicine, entrepreneurship) allowing me to create technological solutions and I engaged in various volunteer activities in order to impact society in my own way.
 
 ## Bibliography
-I'm a postdoctorat reasercher
+After obtaining my baccalaureate in Benin, I undertook a parallel master's program in computer science, and a second master's program in mathematics. My altruism led me to develop a tool to help diagnose diabetes, as a dissertation in computer science. Throughout my studies in Benin, I also produced a gospel album in which I advocate unity and love of neighbor.
+When I arrived in Canada, I started a doctoral program at ÉTS that focuses on the analysis of medical images for decision-making in orthopedics. During my thesis, I had the opportunity to work in close collaboration with the industrial partner EOS Imaging in order to develop automatic methods for the identification of clinical information (in EOS radiographs) intended to be integrated into the software. commercial 3D reconstruction company EOS Imaging. The approaches developed during my thesis project were the subject of a technology transfer to the company EOS Imaging.
+In parallel with my doctorate, I undertook a short graduate program in innovation in surgery which allowed me to co-found the company FemTherapeutics whose vision is to design non-invasive medical tools for the prevention and treatment of gynecological pathologies.
+Currently I am a postdoctoral researcher at Laval University where I develop machine learning approaches in neuroscience.
 
-
-
-## Importante publications
-Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2022). Automatic Lower Limb Bones Segmentation in Radiographs with Different Orientations and Fields of View Based on a Contextual Network, International Journal of Computer Assisted Radiology and Surgery, (submitted).
+## Scientific publications
+Olory Agomma, R., Cresson, T. & De Guise, J., Vázquez, C. (2022). Automatic Lower Limb Bones Segmentation in Radiographs with Different Orientations and Fields of View Based on a Contextual Network, International Journal of Computer Assisted Radiology and Surgery, (submitted).
 
 Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2019). Detection and Identification of Lower-Limb Bones in Biplanar X-Ray Images with Arbitrary Field of View and Various Patient Orientations, The IEEE International Symposium on Biomedical Imaging (ISBI), doi : 10.1109/ISBI.2019.8759456.
 
