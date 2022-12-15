@@ -46,7 +46,7 @@ Currently I'm doing a postdoctoral fellowship at Laval University/Cervo Brain Re
 
 ## Volunteering
 
-- 2017–2020 Godmother for the foreign student matchmaking program, ÉTS.
+- 2017–2022 Godmother for the foreign student matchmaking program, ÉTS and université Laval.
 - 2017–2020 Les Ingénieuses, Student Club Énergie-ÉTS, ÉTS.
 - 2018 Mentor for the «Classes Affaires» event, Montréal relève.
 - 2017–2018 Co-responsible for events, ÉTS student association.
