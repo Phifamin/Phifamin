@@ -34,19 +34,19 @@ Currently, I am the founder and CEO of the company BrainInnov Inc. where we deve
 - 2017-2020 Recognition of Student Engagement Génie+, ÉTS.
 - 2019-2018 Recipient of Arbour scholarship, Fondation Arbour.
 - 2019-2018 Scholarship for the dissemination and promotion of research work, ÉTS.
-- 2019 1st prize, "An exemplary plate for a prosperous land", Entrepreneurship competition, Savoir Affaires. Team competition
-- 2019 Winner of the Steinberg Center Simnovation Award, McGill Clinical Innovation. Startup competition
-- 2019 Recipient of the 1st prize, Presentation contest for the surgical innovation program. Team competition
-- 2019 Recipient of the 3rd prize, Dobson Practicum. Startup competition
-- 2019 Recipient of the 2nd prize, Dobson Cup. Startup competition
+- 2019 1st prize, "An exemplary plate for a prosperous land", Entrepreneurship competition, Savoir Affaires. Team competition.
+- 2019 Winner of the Steinberg Center Simnovation Award, McGill Clinical Innovation. Startup competition.
+- 2019 Recipient of the 1st prize, Presentation contest for the surgical innovation program. Team competition.
+- 2019 Recipient of the 3rd prize, Dobson Practicum. Startup competition.
+- 2019 Recipient of the 2nd prize, Dobson Cup. Startup competition.
 - 2018 Honorific scholarship Desjardins Foundation.
-- 2018 Recipient of 1st prize at ÉTS and 2nd prize at international level, Les 24h d’innovation. Team competition
-- 2017 Recipient of the 3rd prize, APIBQ Congress Poster Contest .
+- 2018 Recipient of 1st prize at ÉTS and 2nd prize at international level, Les 24h d’innovation. Team competition.
+- 2017 Recipient of the 3rd prize, APIBQ Congress Poster Contest.
 - 2017 Recipient of the 3rd prize, Sara’s article abstract competition.
 
 
 ## Volunteering
-- 2022 Co-organizer and trainer of the Institute Intelligence and Data (IID) Bootcamp at Université Laval
+- 2022 Co-organizer and trainer of the Institute Intelligence and Data (IID) Bootcamp at Université Laval.
 - 2017–2022 Godmother for the foreign student matchmaking program, ÉTS and Université Laval.
 - 2017–2020 Les Ingénieuses, Student Club Énergie-ÉTS, ÉTS.
 - 2018 Mentor for the «Classes Affaires» event, Montréal relève.
