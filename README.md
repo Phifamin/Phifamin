@@ -1,5 +1,5 @@
 ## About me
-My name is Roseline OLORY and I'm from Bénin. My passion in life is helping others and solving problems with the goal of improving society one day at a time. With this in mind, I acquired multidisciplinary knowledge (mathematics, computer science, medicine, entrepreneurship) allowing me to create technological solutions and I engaged in various volunteer activities in order to impact society in my own way. This video roughly sums up who I am :  <https://youtu.be/IlFKBH8OmwM>
+My name is Roseline OLORY and I am from Bénin. My passion in life is helping others and solving problems with the goal of improving society one day at a time. With this in mind, I acquired multidisciplinary knowledge (mathematics, computer science, medicine, entrepreneurship) allowing me to create technological solutions and I engaged in various volunteer activities in order to impact society in my own way. This video roughly sums up who I am :  <https://youtu.be/IlFKBH8OmwM>
 
 ## Bibliography
 After obtaining my baccalaureate in science (sciences and techniques) in Benin, I simultaneously undertook an engineering degree in computer science, and a master's degree in mathematics. My altruism led me to develop a tool to help diagnose diabetes, as a dissertation in computer science. Throughout my studies in Benin, I also produced a gospel album in which I advocate unity and love of neighbor.
@@ -8,7 +8,7 @@ When I arrived in Canada, I started a doctoral program at École de technologie 
 
 In the middle of my doctorate, I undertookd in the graduate program in innovation in surgery which allowed me a total immersion in the medical field. I had the privilege of interacting with doctors from different fields (orthopedics, gynecology, cardiology, …) to follow different surgical procedures which allowed me to observe and understand the problems faced by doctors and to propose innovative solutions. This allowed me to co-found the company FemTherapeutics whose vision is to design non-invasive medical tools for the prevention and treatment of gynecological pathologies.
 
-After my doctoral degree, I undertook a postdoctoral fellowship at Laval University/Cervo Brain Research Centre where I worked on the development of machine learning approaches in neuroscience. 
+After my doctoral degree, I undertook a postdoctoral fellowship at Laval University/Cervo Brain Research Centre where I worked on the development of machine learning approaches in neuroscience.
 
 Currently, I am the founder and CEO of the company BrainInnov Inc. where we develop solutions based on artificial intelligence.
 
@@ -28,8 +28,7 @@ Currently, I am the founder and CEO of the company BrainInnov Inc. where we deve
 - Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2017) Automatic detection of the lower limb anatomical regions in frontal radiographs based on a convolutional neural network, 37th research day of POES and the orthopedic division of the university of Montreal.
 
 ## Awards and Recognition
-
- - 2021 Laureate of the Palmarès Feminin Pluriel recognition program, ÉTS.
+- 2021 Laureate of the Palmarès Feminin Pluriel recognition program, ÉTS.
 - 2018-2021 CREATES Student fellow scholarship, McGill University.
 - 2020 Recipient of the "substance" scholarship for the dissemination of research, ÉTS.
 - 2017-2020 Recognition of Student Engagement Génie+, ÉTS.
@@ -47,7 +46,7 @@ Currently, I am the founder and CEO of the company BrainInnov Inc. where we deve
 
 
 ## Volunteering
-
+- 2022 Co-organizer and trainer of the Institute Intelligence and Data (IID) Bootcamp at Université Laval
 - 2017–2022 Godmother for the foreign student matchmaking program, ÉTS and Université Laval.
 - 2017–2020 Les Ingénieuses, Student Club Énergie-ÉTS, ÉTS.
 - 2018 Mentor for the «Classes Affaires» event, Montréal relève.
