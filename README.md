@@ -10,7 +10,7 @@ In the middle of my doctorate, I undertookd in the graduate program in innovatio
 
 After my doctoral degree, I undertook a postdoctoral fellowship at Laval University/Cervo Brain Research Centre where I worked on the development of machine learning approaches in neuroscience.
 
-Currently, I am the founder and CEO of the company BrainInnov Inc. where we develop solutions based on artificial intelligence.
+Currently, I am the founder and CEO of the company BrainInnov Inc. where we develop technologies based on artificial intelligence.
 
 ## Important Scientific publications
 - Olory Agomma, R., Cresson, T. & De Guise, J., Vázquez, C. (2022). Automatic Lower Limb Bones Segmentation in Radiographs with Different Orientations and Fields of View Based on a Contextual Network, International Journal of Computer Assisted Radiology and Surgery, doi : 10.1007/s11548-022-02798-7.
