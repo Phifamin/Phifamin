@@ -13,8 +13,8 @@ After my doctoral degree, I undertook a postdoctoral fellowship at Laval Univers
 Currently, I am the founder and CEO of the company BrainInnov Inc. where we develop technologies based on artificial intelligence.
 
 ## Important Scientific publications
+- Doney, Ellen, et al. (2023). Chronic stress exposure alters the gut barrier: sex-specific effects on microbiota and jejunum tight junctions. Biological Psychiatry Global Open Science. doi : 10.1016/j.bpsgos.2023.04.007
 - Olory Agomma, R., Cresson, T. & De Guise, J., Vázquez, C. (2022). Automatic Lower Limb Bones Segmentation in Radiographs with Different Orientations and Fields of View Based on a Contextual Network, International Journal of Computer Assisted Radiology and Surgery, doi : 10.1007/s11548-022-02798-7.
-- E. Doney, L. Dion-Albert, F. Coulombe-Rozon, N. Osborne, R. Bernatchez, R. Olory Agomma et al. (2022). Chronic stress exposure alters the gut barrier : sex-specific effects on microbiota and jejunum tight junctions, https://www.biorxiv.org/content/10.1101/2022.09.13.507821v1.abstract.
 - Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2019). Detection and Identification of Lower-Limb Bones in Biplanar X-Ray Images with Arbitrary Field of View and Various Patient Orientations, The IEEE International Symposium on Biomedical Imaging (ISBI), doi : 10.1109/ISBI.2019.8759456.
 - Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2018). Automatic detection of anatomical regions in frontal X-ray images: comparing convolutional neural networks to random forest, Society of Photo-Optical Instrumentation Engineers (SPIE), doi : 10.1117/12.2295214.
 
