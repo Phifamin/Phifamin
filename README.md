@@ -29,7 +29,7 @@ Currently, I am the founder and CEO of the company BrainInnov Inc. where we deve
 
 ## Awards and Recognition
 - 2023 Winner of the postdoc-entrepreneur.e funding, IVADO.
-- 2021 Laureate of the Palmarès Feminin Pluriel recognition program, ÉTS.
+- 2021 Laureate of the Palmarès Feminin Pluriel recognition, ÉTS.
 - 2018-2021 CREATES Student fellow scholarship, McGill University.
 - 2020 Recipient of the "substance" scholarship for the dissemination of research, ÉTS.
 - 2017-2020 Recognition of Student Engagement Génie+, ÉTS.
