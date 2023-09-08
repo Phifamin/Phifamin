@@ -19,13 +19,13 @@ Currently, I am the founder and CEO of the company BrainInnov Inc. where we deve
 - Olory Agomma, Roseline, et al. (2018). Automatic detection of anatomical regions in frontal X-ray images: comparing convolutional neural networks to random forest, Society of Photo-Optical Instrumentation Engineers (SPIE), doi : 10.1117/12.2295214.
 
 ## Scientific communications
-- Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2020). Artificial Intelligence Assisting Orthopaedic Imaging , Substance ÉTS.
-- Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2020) Identification of lower-limb bones in X-ray images with arbitrary field of view and various patient orientations, Academic day of the department of radiology, radiation oncology and nuclear medicine of the University of Montreal.
-- Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2018). Assisting Surgeons with Artificial Intelligence, Substance ÉTS.
-- Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2018) Automatic recovery of EOS images’ orientation via a convolutional neural network, International Society of Orthopaedic Surgery and Traumatology, SICOT.
-- Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2018) "Classification automatique d’images radiographiques à l’aide d’un réseau de neurones convolutif", 20th Congress of CRCHUM students, interns and residents, CRCHUM.
-- Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2017) Automatic detection of the lower limb anatomical regions in frontal radiographs based on a convolutional neural network, Congress of the association of physicists and biomedical engineers of Quebec.
-- Olory Agomma, R., Vázquez, C., Cresson, T. & De Guise, J. (2017) Automatic detection of the lower limb anatomical regions in frontal radiographs based on a convolutional neural network, 37th research day of POES and the orthopedic division of the university of Montreal.
+- Olory Agomma, Roseline, et al. (2020). Artificial Intelligence Assisting Orthopaedic Imaging , Substance ÉTS.
+- Olory Agomma, Roseline, et al. (2020) Identification of lower-limb bones in X-ray images with arbitrary field of view and various patient orientations, Academic day of the department of radiology, radiation oncology and nuclear medicine of the University of Montreal.
+- Olory Agomma, Roseline, et al. (2018). Assisting Surgeons with Artificial Intelligence, Substance ÉTS.
+- Olory Agomma, Roseline, et al. (2018) Automatic recovery of EOS images’ orientation via a convolutional neural network, International Society of Orthopaedic Surgery and Traumatology, SICOT.
+- Olory Agomma, Roseline, et al. (2018) "Classification automatique d’images radiographiques à l’aide d’un réseau de neurones convolutif", 20th Congress of CRCHUM students, interns and residents, CRCHUM.
+- Olory Agomma, Roseline, et al. (2017) Automatic detection of the lower limb anatomical regions in frontal radiographs based on a convolutional neural network, Congress of the association of physicists and biomedical engineers of Quebec.
+- Olory Agomma, Roseline, et al. (2017) Automatic detection of the lower limb anatomical regions in frontal radiographs based on a convolutional neural network, 37th research day of POES and the orthopedic division of the university of Montreal.
 
 ## Awards and Recognition
 - 2021 Laureate of the Palmarès Feminin Pluriel recognition program, ÉTS.
