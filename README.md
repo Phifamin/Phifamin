@@ -28,6 +28,7 @@ Currently, I am the founder and CEO of the company BrainInnov Inc. where we deve
 - Olory Agomma, Roseline, et al. (2017) Automatic detection of the lower limb anatomical regions in frontal radiographs based on a convolutional neural network, 37th research day of POES and the orthopedic division of the university of Montreal.
 
 ## Awards and Recognition
+- 2023 Winner of the postdoc-entrepreneur.e funding, IVADO.
 - 2021 Laureate of the Palmarès Feminin Pluriel recognition program, ÉTS.
 - 2018-2021 CREATES Student fellow scholarship, McGill University.
 - 2020 Recipient of the "substance" scholarship for the dissemination of research, ÉTS.
